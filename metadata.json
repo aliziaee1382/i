@@ -1,0 +1,6 @@
+{
+  "name": "0003 - ali0003.ir",
+  "description": "سایت شخصی فوق مدرن و تعاملی ۰۰۰۳ (علی ضیایی) - متخصص هوش مصنوعی، ربات‌های تلگرام، توسعه وب‌سایت و طراحی بنر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
